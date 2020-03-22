@@ -1,2 +1,2 @@
-# MyOwnLibrary
-2 rectangles bouncing off each other
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
